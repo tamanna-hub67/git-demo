@@ -1,2 +1,2 @@
 # git-demo
-hello this is bhavya who came from unknown planet 
+hello this is bhavya who is attending the practice session
